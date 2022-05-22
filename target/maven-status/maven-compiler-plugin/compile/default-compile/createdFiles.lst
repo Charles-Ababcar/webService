@@ -1,0 +1,5 @@
+com\ucad\webservice\JAXRSConfiguration.class
+serveur\ServeurWS.class
+métier\BanqueService.class
+com\ucad\webservice\resources\JavaEE8Resource.class
+serviceWeb\Compte.class
